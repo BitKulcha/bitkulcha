@@ -1,0 +1,7 @@
+.header-item {
+    background-color: white;
+    height: calc(40px + 15vh);/*180px;*/
+    width: calc(20px + 20vw); /*255px;*/
+    border-radius: 1vmin;
+    
+}

@@ -1,0 +1,28 @@
+.HomeHeader {
+    background-color: rgb(230, 230, 230);
+    height: 80vh;
+}
+
+.header-cover {
+    height: 80vh;
+    padding-top: 15vh;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    
+}
+
+.header-image {
+    background-color: grey;
+    height: 47vh;
+    /* margin-top: 10vh; */
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    width: 80vw;
+    left: 10vw;
+    top: -8vh;
+}
